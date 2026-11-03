@@ -1,9 +1,9 @@
-# 4-Year Free Curriculum: Software Development, AI and ML
+# 4-Year Free Curriculum: Software Development with Indermediate AI/Ml + Bio-Technology & EV Scince with Green Energy
 
 A free, university-style learning plan as a simple website with a progress checklist. It has 4 years, 16 terms of 3 months each, daily class timings, term events, projects and checkpoints, built only from free resources.
 
-**Core subjects:** software development, machine learning and AI.
-**Secondary subjects (every term):** English, project management, architecture and system design, product and selling.
+**Core subjects:** Software Development, ML & AI, Bio-Technology & EV Science with Green Energy. 
+**Secondary subjects (every term):** English, Project Management, Architecture and System Design, Product and Selling.
 
 No frameworks, no build step, no sign-up. It is plain HTML, CSS and JavaScript.
 
@@ -20,12 +20,23 @@ No frameworks, no build step, no sign-up. It is plain HTML, CSS and JavaScript.
 
 ## The four years
 
+For Software Engineering with Intermediate AI/ML -
+
 | Year | Terms | Focus |
 |---|---|---|
 | 1. Foundations | 1 to 4 | Command line, Git, Python, web, databases, first AI concepts |
 | 2. Engineering core | 5 to 8 | Algorithms, Java, TypeScript, ML foundations, cloud, security |
 | 3. AI engineering | 9 to 12 | Deep learning, NLP and LLM apps, distributed systems, MLOps, product |
 | 4. Capstone and launch | 13 to 16 | Specialize, build, launch, defend, get hired or start something |
+
+For Bio-Technology & EV Scince with Green Energy -
+
+| Year | Terms | Focus |
+|---|---|---|
+| 1. Earth Literacy | 1 to 4 | Facts, numbers, basic science and your first environmental data work |
+| 2. Science and data | 5 to 8 | Molecular biology, renewable engineering, life cycle and carbon accounting |
+| 3. Climate ML and bioinformatics | 9 to 12 | Forecasting, biological data, energy models and satellites |
+| 4. Integration and impact | 13 to 16 | One real project with real partners, measured honestly |
 
 ## Files
 
@@ -35,6 +46,8 @@ curriculum-site/
 ├── about.html   About the website and its features
 ├── style.css    Colours, layout and fonts
 ├── script.js    Course data and checklist logic
+├── earth.html   The Earth track curriculum page structure
+├── earth.js     The Earth track curriculum course data and checklist logic
 └── README.md    This file
 ```
 

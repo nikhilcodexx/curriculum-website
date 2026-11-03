@@ -81,3 +81,7 @@ a.navlink:hover{border-color:var(--ink);color:var(--ink)}
 .about ul{padding-left:20px;margin:0}.about li{margin-bottom:6px}
 .about a{color:var(--teal)}
 pre{background:var(--soft);border-left:3px solid var(--amber);padding:14px 16px;overflow-x:auto;font-size:.88rem;line-height:1.5}
+
+/* 17. EARTH TRACK TAGS: colours for the Biotech and Energy tags on earth.html */
+.tag.bio{border-color:var(--teal);color:var(--teal)}
+.tag.energy{border-color:var(--amber);color:var(--amber)}
